@@ -68,8 +68,8 @@ graph TB
 
 1. **克隆项目**
 ```bash
-git clone <repository_url>
-cd CorrosionAssessment_Agent
+git clone https://github.com/swanmsg/CorrosionAssessmentAgent
+cd CorrosionAssessmentAgent
 ```
 
 2. **创建虚拟环境**
