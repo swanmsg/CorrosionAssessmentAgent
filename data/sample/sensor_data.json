@@ -1,0 +1,47 @@
+[
+  {
+    "sensor_id": "thickness_001",
+    "sensor_type": "thickness",
+    "value": 10.5,
+    "unit": "mm",
+    "timestamp": "2024-01-15T10:30:00",
+    "location": {"x": 0, "y": 0, "z": 0},
+    "quality": 0.95
+  },
+  {
+    "sensor_id": "thickness_002", 
+    "sensor_type": "thickness",
+    "value": 9.2,
+    "unit": "mm",
+    "timestamp": "2024-01-15T10:31:00",
+    "location": {"x": 10, "y": 0, "z": 0},
+    "quality": 0.92
+  },
+  {
+    "sensor_id": "temp_001",
+    "sensor_type": "temperature",
+    "value": 25.3,
+    "unit": "°C", 
+    "timestamp": "2024-01-15T10:30:00",
+    "location": {"x": 5, "y": 5, "z": 0},
+    "quality": 0.98
+  },
+  {
+    "sensor_id": "humidity_001",
+    "sensor_type": "humidity",
+    "value": 75.8,
+    "unit": "%RH",
+    "timestamp": "2024-01-15T10:30:00", 
+    "location": {"x": 5, "y": 5, "z": 0},
+    "quality": 0.94
+  },
+  {
+    "sensor_id": "ph_001",
+    "sensor_type": "ph",
+    "value": 8.1,
+    "unit": "pH",
+    "timestamp": "2024-01-15T10:30:00",
+    "location": {"x": 0, "y": 10, "z": 0},
+    "quality": 0.89
+  }
+]
